@@ -11,4 +11,3 @@ for x in range(31*2031, 10 ** 9, 31*2031):
                 delit.append(x // i)
         if len(delit) in a:
             print(x, x // 2031)
-print('hello, world!')
